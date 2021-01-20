@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BanJoeH/RoboFriends/static/css/main.ff662428.chunk.css",
+    "main.js": "/BanJoeH/RoboFriends/static/js/main.d19a7051.chunk.js",
+    "main.js.map": "/BanJoeH/RoboFriends/static/js/main.d19a7051.chunk.js.map",
+    "runtime-main.js": "/BanJoeH/RoboFriends/static/js/runtime-main.580da29d.js",
+    "runtime-main.js.map": "/BanJoeH/RoboFriends/static/js/runtime-main.580da29d.js.map",
+    "static/css/2.31461e4f.chunk.css": "/BanJoeH/RoboFriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js": "/BanJoeH/RoboFriends/static/js/2.e7eaf872.chunk.js",
+    "static/js/2.e7eaf872.chunk.js.map": "/BanJoeH/RoboFriends/static/js/2.e7eaf872.chunk.js.map",
+    "index.html": "/BanJoeH/RoboFriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/BanJoeH/RoboFriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.ff662428.chunk.css.map": "/BanJoeH/RoboFriends/static/css/main.ff662428.chunk.css.map",
+    "static/js/2.e7eaf872.chunk.js.LICENSE.txt": "/BanJoeH/RoboFriends/static/js/2.e7eaf872.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BanJoeH/RoboFriends/static/media/SEGA-LOGO-FONT.ttf.e0f4cb92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580da29d.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js",
+    "static/css/main.ff662428.chunk.css",
+    "static/js/main.d19a7051.chunk.js"
+  ]
+}
